@@ -22,4 +22,15 @@ type Book struct {
 * Update Book
 * Delete Book
 
+### How to run?
+- Get Mux from Golang tools (https://github.com/gorilla/mux):
+```
+go get -u github.com/gorilla/mux
+```
+- Build & Run:
+```
+go build && ./restapi.exe
+```
+
+
 Src: https://www.youtube.com/watch?v=SonwZ6MF5BE
